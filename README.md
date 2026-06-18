@@ -61,7 +61,7 @@ Worked on:
 
 ## 📫 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/alreem-al-derei-a9674a157)
+[LinkedIn](https://www.linkedin.com/in/alreem-al-derei-a9674a157)
 [Email](mailto:reem.033@hotmail.com)
 
 </div>
