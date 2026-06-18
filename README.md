@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Alreem AlDerei ✨
+#  Alreem AlDerei 
 
 ### Computer Science Student | Embedded Systems | UAV Software | Python Developer
 
