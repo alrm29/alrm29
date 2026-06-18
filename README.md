@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**alrm29/alrm29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Alreem AlDerei ✨
 
-Here are some ideas to get you started:
+### Computer Science Graduate | Embedded Systems | UAV Software | Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Engineering solutions for real-world challenges."*
+
+</div>
+
+---
+
+## About Me
+
+🎓 Computer Science graduate from UAE University  
+🚁 Interested in UAV Systems and Ground Control Software  
+⚡ Working with STM32, UART communication, and Python  
+📊 Passionate about Data Visualization and AI  
+🌱 Always learning and building practical solutions  
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-0A0A23?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-0A0A23?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-0A0A23?style=for-the-badge&logo=cplusplus)
+![STM32](https://img.shields.io/badge/STM32-0A0A23?style=for-the-badge&logo=stmicroelectronics)
+![Git](https://img.shields.io/badge/Git-0A0A23?style=for-the-badge&logo=git)
+![MySQL](https://img.shields.io/badge/MySQL-0A0A23?style=for-the-badge&logo=mysql)
+![Streamlit](https://img.shields.io/badge/Streamlit-0A0A23?style=for-the-badge&logo=streamlit)
+![Plotly](https://img.shields.io/badge/Plotly-0A0A23?style=for-the-badge&logo=plotly)
+
+---
+
+## 🚀 Featured Projects
+
+### 📡 STM32 UART Monitor
+Python GUI application for receiving and displaying UART packets from an STM32 microcontroller.
+
+### 🚁 UAV Telemetry Dashboard
+Dashboard concept for visualizing UAV telemetry such as altitude, speed, GPS, and battery data.
+
+### 📊 Road Accident Analytics
+Interactive data visualization dashboard using Streamlit and Plotly.
+
+### 🍽 Recipe Management System
+Java web application using JSP, Servlets, MySQL, and MVC architecture.
+
+---
+
+## 💼 Experience
+
+### Software Engineering Intern
+
+Worked on:
+
+- UAV Ground Control System concepts
+- Embedded communication workflows
+- System verification and testing
+- HILS/SILS simulation environments
+- Technical documentation
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/alreem-al-derei)  
+[Email](mailto:reem.033@hotmail.com)
+
+</div>
