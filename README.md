@@ -2,7 +2,7 @@
 
 # ✨ Alreem AlDerei ✨
 
-### Computer Science Graduate | Embedded Systems | UAV Software | Python Developer
+### Computer Science Student | Embedded Systems | UAV Software | Python Developer
 
 *"Engineering solutions for real-world challenges."*
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-🎓 Computer Science graduate from UAE University  
+🎓 Computer Science undegraduate from UAE University  
 🚁 Interested in UAV Systems and Ground Control Software  
 ⚡ Working with STM32, UART communication, and Python  
 📊 Passionate about Data Visualization and AI  
@@ -38,8 +38,6 @@
 ### 📡 STM32 UART Monitor
 Python GUI application for receiving and displaying UART packets from an STM32 microcontroller.
 
-### 🚁 UAV Telemetry Dashboard
-Dashboard concept for visualizing UAV telemetry such as altitude, speed, GPS, and battery data.
 
 ### 📊 Road Accident Analytics
 Interactive data visualization dashboard using Streamlit and Plotly.
@@ -55,10 +53,8 @@ Java web application using JSP, Servlets, MySQL, and MVC architecture.
 
 Worked on:
 
-- UAV Ground Control System concepts
 - Embedded communication workflows
 - System verification and testing
-- HILS/SILS simulation environments
 - Technical documentation
 
 ---
