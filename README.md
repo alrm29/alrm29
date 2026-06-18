@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Alreem AlDerei 
+### ✨✨ Alreem AlDerei ✨✨
 
 ### Computer Science Student | Embedded Systems | 3D Visualization | Python Developer
 
@@ -20,9 +20,7 @@
 
 ---
 
-## 🛠 Tech Stack
-
-## 🛠 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-0A0A23?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-0A0A23?style=for-the-badge&logo=c)
