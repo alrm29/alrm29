@@ -32,21 +32,21 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📡 STM32 UART Monitor
+### STM32 UART Monitor
 Python GUI application for receiving and displaying UART packets from an STM32 microcontroller.
 
 
-### 📊 Road Accident Analytics
+### Road Accident Analytics
 Interactive data visualization dashboard using Streamlit and Plotly.
 
-### 🍽 Recipe Management System
+### Recipe Management System
 Java web application using JSP, Servlets, MySQL, and MVC architecture.
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Software Engineering Intern
 
