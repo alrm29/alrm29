@@ -2,7 +2,7 @@
 
 ###  Alreem AlDerei 
 
-### Computer Science Student | Embedded Systems | 3D Visualization | Python Developer
+### Computer Science Student | Embedded Systems | Python Developer
 
 *"Engineering solutions for real-world challenges."*
 
@@ -61,7 +61,7 @@ Worked on:
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/alreem-al-derei)  
+[LinkedIn](www.linkedin.com/in/alreem-al-derei-a9674a157)  
 [Email](mailto:reem.033@hotmail.com)
 
 </div>
