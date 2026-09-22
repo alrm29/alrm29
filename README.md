@@ -2,9 +2,8 @@
 
 ###  Alreem AlDerei 
 
-### Computer Science Student | Embedded Systems | Python Developer
+### Computer Science Student 
 
-*"Engineering solutions for real-world challenges."*
 
 </div>
 
