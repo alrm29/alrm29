@@ -22,11 +22,9 @@
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-0A0A23?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-0A0A23?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-0A0A23?style=for-the-badge&logo=cplusplus)
 ![STM32](https://img.shields.io/badge/STM32-0A0A23?style=for-the-badge&logo=stmicroelectronics)
 ![Three.js](https://img.shields.io/badge/Three.js-0A0A23?style=for-the-badge&logo=threedotjs)
-![MySQL](https://img.shields.io/badge/MySQL-0A0A23?style=for-the-badge&logo=mysql)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0A0A23?style=for-the-badge&logo=streamlit)
 ![Plotly](https://img.shields.io/badge/Plotly-0A0A23?style=for-the-badge&logo=plotly)
 
