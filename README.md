@@ -2,7 +2,7 @@
 
 ###  Alreem AlDerei 
 
-### Computer Science Student 
+### Computer Science Student | Software Engineer
 
 
 </div>
